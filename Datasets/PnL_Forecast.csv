@@ -1,0 +1,4 @@
+Case,Sales,Expenses,Operating Profit,Other Income,Depreciation,Interest,Profit Before Tax,Tax,Net Profit,EPS,Price/Earning Ratio,Price
+Trailing,54842,49550,5292,493,537,767,4481,1146,3335,37.57,97.34,3656.5
+Best Case,69274.73,61820.44,7454.3,,537,767,6150.3,0.26,4577.38,51.56,97.34,5018.65
+Worst Case,63837.61,57677.57,6160.03,,537,767,4856.03,0.26,3614.12,40.71,81.77,3328.94
